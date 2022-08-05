@@ -280,6 +280,7 @@ header {
     display: flex;
     flex: 1;
     margin-top: 25px;
+    margin-bottom: 50px;
 }
 .comp_8 img {
     width: 350px;
